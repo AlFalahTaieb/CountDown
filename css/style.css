@@ -1,0 +1,52 @@
+body {
+    margin-top: 0px;
+    
+}
+
+
+t {
+    display: inline;
+    position: relative;
+    text-align: center;
+    margin: 0 40%;
+    font: 200px Helvetica, Sans-Serif;
+    letter-spacing: -15px;
+    color: rgba(0, 0, 255, 0.5);
+}
+
+t:after {
+    content: "Eya";
+    position: absolute;
+    left: 9px;
+    top: 4px;
+    color: rgba(255, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+    color: #000080;
+    font-family: "Oswald";
+    font-weight: 700;
+    font-size: 5em;
+    margin: 0 25%;
+    border-top: .1em solid;
+    border-bottom: .1em solid;
+}
+
+t1 {
+    display: inline;
+    position: relative;
+        margin: 0 30%;
+    font: 200px Helvetica, Sans-Serif;
+    letter-spacing: -15px;
+    color: rgba(0, 0, 255, 0.5);
+}
+
+t1:after {
+    content: "BenAzouz";
+    position: absolute;
+    
+    left: 9px;
+    top: 4px;
+    color: rgba(255, 0, 0, 0.5);
+}
